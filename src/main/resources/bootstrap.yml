@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: rollingstone-ecommerce-account-api-rabbitmq-consumer
